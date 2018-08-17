@@ -1,0 +1,16 @@
+{
+  "map": [
+    [
+      "Id",
+      "Id"
+    ],
+    [
+      "NCBITaxonomy_NCBI Tax ID",
+      "NCBITaxonomy.NCBI Tax ID"
+    ],
+    [
+      "OrganismMetadata_Oxygen Requirement (MIGS-22)",
+      "OrganismMetadata.Oxygen Requirement (MIGS-22)"
+    ]
+  ]
+}
